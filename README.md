@@ -1,0 +1,2 @@
+# CraftyCorner-Azure
+Deploy
